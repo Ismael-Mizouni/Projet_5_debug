@@ -85,7 +85,7 @@ body {
 	font-style: italic;
 	width: 60%;
 }
-#about-me p {
+#about-me h5 {
 	width: 80%;
 	font-size: 15px;
 }
@@ -99,7 +99,8 @@ body {
 }
 .nav-pills .nav-link.active-tag{
 	color: #fff;
-	background-color: #BEB45A;
+	/* MODIF BACKGROUND POUR CONTRASTE WAVE  */
+	background-color: #5E5A26;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
